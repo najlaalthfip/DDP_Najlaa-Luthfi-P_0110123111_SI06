@@ -1,2 +1,2 @@
-# DDP_Najlaa-Luthfi-P_0110123111_SI06
+# DDP2023_Najlaa-Luthfi-P_0110123111_SI06
 Tugas Dasar-Dasar Pemrograman
